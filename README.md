@@ -1,4 +1,4 @@
-# Astro on Netlify Platform Starter
+-# Astro on Netlify Platform Starter
 
 [Live Demo](https://astro-platform-starter.netlify.app/)
 
@@ -39,7 +39,7 @@ npm install netlify-cli@latest -g
 3. Link your local repository to the deployed Netlify site. This will ensure you're using the same runtime version for both local development and your deployed site.
 
 ```
-netlify link
+netlify link https\haroldcarvalho.com.br
 ```
 
 4. Then, run the Astro.js development server via Netlify CLI:
